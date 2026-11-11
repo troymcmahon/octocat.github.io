@@ -161,7 +161,7 @@
 
             <div>
                 <img
-                    src="profile.jpg"
+                    src="Troy_McMahon.jpg"
                     alt="Profile photograph"
                     class="profile-photo"
                 >
